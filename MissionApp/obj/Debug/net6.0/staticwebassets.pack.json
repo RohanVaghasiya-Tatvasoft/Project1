@@ -1,0 +1,941 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MissionApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MissionApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\Avatars\\2volunteer1.png",
+      "PackagePath": "staticwebassets\\Avatars\\2volunteer1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\StoryImages\\05975929-ee99-4a51-af5c-d7b54e59f3b0.jpg",
+      "PackagePath": "staticwebassets\\StoryImages\\05975929-ee99-4a51-af5c-d7b54e59f3b0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\StoryImages\\09c910d7-f140-4524-b820-dbdcc8fa2c37.jpg",
+      "PackagePath": "staticwebassets\\StoryImages\\09c910d7-f140-4524-b820-dbdcc8fa2c37.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\StoryImages\\1b8e7d33-5c1f-4f2f-946f-1e6d95484726.jpg",
+      "PackagePath": "staticwebassets\\StoryImages\\1b8e7d33-5c1f-4f2f-946f-1e6d95484726.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\StoryImages\\2aa0df48-4c38-4899-915d-06365e4dabe8.jpg",
+      "PackagePath": "staticwebassets\\StoryImages\\2aa0df48-4c38-4899-915d-06365e4dabe8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\StoryImages\\30b3b40b-edcb-4ada-89dc-bfed44a32c08.jpg",
+      "PackagePath": "staticwebassets\\StoryImages\\30b3b40b-edcb-4ada-89dc-bfed44a32c08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\StoryImages\\37ce5187-4c31-4857-9747-56f72bde1d8e.jpg",
+      "PackagePath": "staticwebassets\\StoryImages\\37ce5187-4c31-4857-9747-56f72bde1d8e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\StoryImages\\51dc1f19-0b5b-4371-9c71-4266e59da773.png",
+      "PackagePath": "staticwebassets\\StoryImages\\51dc1f19-0b5b-4371-9c71-4266e59da773.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\StoryImages\\5c8d16c7-619d-4fe8-bfcc-952f93ca9984.jpg",
+      "PackagePath": "staticwebassets\\StoryImages\\5c8d16c7-619d-4fe8-bfcc-952f93ca9984.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\StoryImages\\63692edd-f086-4edb-af10-c0fe2573d542.jpg",
+      "PackagePath": "staticwebassets\\StoryImages\\63692edd-f086-4edb-af10-c0fe2573d542.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\StoryImages\\656f1c2f-596c-422f-bf72-3b6212c0802b.jpg",
+      "PackagePath": "staticwebassets\\StoryImages\\656f1c2f-596c-422f-bf72-3b6212c0802b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\StoryImages\\7ada894d-a3da-4c30-a62a-1fd932104d2e.jpg",
+      "PackagePath": "staticwebassets\\StoryImages\\7ada894d-a3da-4c30-a62a-1fd932104d2e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\StoryImages\\835bef6e-30b6-4f35-9fe1-9fa7e40c9e95.jpg",
+      "PackagePath": "staticwebassets\\StoryImages\\835bef6e-30b6-4f35-9fe1-9fa7e40c9e95.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\StoryImages\\94abbe2e-741b-46b4-b727-7f0264ca4e14.jpg",
+      "PackagePath": "staticwebassets\\StoryImages\\94abbe2e-741b-46b4-b727-7f0264ca4e14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\StoryImages\\a330360c-a42a-4c5b-b972-4d0c597b2661.jpg",
+      "PackagePath": "staticwebassets\\StoryImages\\a330360c-a42a-4c5b-b972-4d0c597b2661.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\StoryImages\\a387ee6e-73c0-4b9f-8b32-d1ad4af12ded.jpg",
+      "PackagePath": "staticwebassets\\StoryImages\\a387ee6e-73c0-4b9f-8b32-d1ad4af12ded.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\StoryImages\\a57f1b55-eab0-419a-8aaa-26e4c1b22853.jpg",
+      "PackagePath": "staticwebassets\\StoryImages\\a57f1b55-eab0-419a-8aaa-26e4c1b22853.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\StoryImages\\c59313f2-5614-41a8-b74a-aa04d22b21b0.jpg",
+      "PackagePath": "staticwebassets\\StoryImages\\c59313f2-5614-41a8-b74a-aa04d22b21b0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\StoryImages\\c819bc44-d70f-4a8b-ad1f-b1c38af4bd8c.jpg",
+      "PackagePath": "staticwebassets\\StoryImages\\c819bc44-d70f-4a8b-ad1f-b1c38af4bd8c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\StoryImages\\ce5b9b43-4a72-4079-a417-bd1c105a335e.jpg",
+      "PackagePath": "staticwebassets\\StoryImages\\ce5b9b43-4a72-4079-a417-bd1c105a335e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\StoryImages\\db46d4b6-60ad-4382-bfa1-99221d9366e8.jpg",
+      "PackagePath": "staticwebassets\\StoryImages\\db46d4b6-60ad-4382-bfa1-99221d9366e8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\StoryImages\\dca0e9e0-3b53-468f-900d-b2eb0b8a20b8.jpg",
+      "PackagePath": "staticwebassets\\StoryImages\\dca0e9e0-3b53-468f-900d-b2eb0b8a20b8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\StoryImages\\df776f88-f732-4558-bc33-bba40ea644f6.jpg",
+      "PackagePath": "staticwebassets\\StoryImages\\df776f88-f732-4558-bc33-bba40ea644f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\StoryImages\\e5d70042-dc07-437d-98c7-56f57cc3f333.jpg",
+      "PackagePath": "staticwebassets\\StoryImages\\e5d70042-dc07-437d-98c7-56f57cc3f333.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\StoryImages\\f334f099-46f7-42e3-86ad-34d7e0641fc7.jpg",
+      "PackagePath": "staticwebassets\\StoryImages\\f334f099-46f7-42e3-86ad-34d7e0641fc7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\StoryImages\\f6420a1c-51d9-45b0-a7aa-800191946d5e.jpg",
+      "PackagePath": "staticwebassets\\StoryImages\\f6420a1c-51d9-45b0-a7aa-800191946d5e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\css\\Admin.css",
+      "PackagePath": "staticwebassets\\css\\Admin.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\css\\CodePen.css",
+      "PackagePath": "staticwebassets\\css\\CodePen.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\css\\DataTable.css",
+      "PackagePath": "staticwebassets\\css\\DataTable.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\css\\forgotPassword.css",
+      "PackagePath": "staticwebassets\\css\\forgotPassword.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\css\\imageUploader.css",
+      "PackagePath": "staticwebassets\\css\\imageUploader.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\css\\platformLandingPage.css",
+      "PackagePath": "staticwebassets\\css\\platformLandingPage.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\css\\registration.css",
+      "PackagePath": "staticwebassets\\css\\registration.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\css\\resetPassword.css",
+      "PackagePath": "staticwebassets\\css\\resetPassword.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\css\\sb-admin-2.css",
+      "PackagePath": "staticwebassets\\css\\sb-admin-2.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\css\\sb-admin-2.min.css",
+      "PackagePath": "staticwebassets\\css\\sb-admin-2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\css\\storyAddingPage.css",
+      "PackagePath": "staticwebassets\\css\\storyAddingPage.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\css\\storyListingPage.css",
+      "PackagePath": "staticwebassets\\css\\storyListingPage.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\css\\userProfile.css",
+      "PackagePath": "staticwebassets\\css\\userProfile.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\css\\volunteerStoryDetails.css",
+      "PackagePath": "staticwebassets\\css\\volunteerStoryDetails.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\css\\volunteeringMissionPage.css",
+      "PackagePath": "staticwebassets\\css\\volunteeringMissionPage.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\documents\\CI Platform - DB.xlsx",
+      "PackagePath": "staticwebassets\\documents\\CI Platform - DB.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\documents\\CI-SRS-Final-23.docx",
+      "PackagePath": "staticwebassets\\documents\\CI-SRS-Final-23.docx"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\documents\\keyboard-shortcuts.pdf",
+      "PackagePath": "staticwebassets\\documents\\keyboard-shortcuts.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\404-Page-image.png",
+      "PackagePath": "staticwebassets\\images\\404-Page-image.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\Already-volunteered.png",
+      "PackagePath": "staticwebassets\\images\\Already-volunteered.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\Animal-welfare-_-save-birds-campaign-1.png",
+      "PackagePath": "staticwebassets\\images\\Animal-welfare-_-save-birds-campaign-1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\Animal-welfare-_-save-birds-campaign.png",
+      "PackagePath": "staticwebassets\\images\\Animal-welfare-_-save-birds-campaign.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\Assets.zip",
+      "PackagePath": "staticwebassets\\images\\Assets.zip"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-1.png",
+      "PackagePath": "staticwebassets\\images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-2.png",
+      "PackagePath": "staticwebassets\\images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-3.png",
+      "PackagePath": "staticwebassets\\images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-4.png",
+      "PackagePath": "staticwebassets\\images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-4.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-5.png",
+      "PackagePath": "staticwebassets\\images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-5.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-6.png",
+      "PackagePath": "staticwebassets\\images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-6.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity.png",
+      "PackagePath": "staticwebassets\\images\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-1.png",
+      "PackagePath": "staticwebassets\\images\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-2.png",
+      "PackagePath": "staticwebassets\\images\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\Education-Supplies-for-Every--Pair-of-Shoes-Sold.png",
+      "PackagePath": "staticwebassets\\images\\Education-Supplies-for-Every--Pair-of-Shoes-Sold.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\Grow-Trees-On-the-path-to-environment-sustainability-1.png",
+      "PackagePath": "staticwebassets\\images\\Grow-Trees-On-the-path-to-environment-sustainability-1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\Grow-Trees-On-the-path-to-environment-sustainability-2.png",
+      "PackagePath": "staticwebassets\\images\\Grow-Trees-On-the-path-to-environment-sustainability-2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\Grow-Trees-On-the-path-to-environment-sustainability-3.png",
+      "PackagePath": "staticwebassets\\images\\Grow-Trees-On-the-path-to-environment-sustainability-3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\Grow-Trees-On-the-path-to-environment-sustainability-4.png",
+      "PackagePath": "staticwebassets\\images\\Grow-Trees-On-the-path-to-environment-sustainability-4.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\Grow-Trees-On-the-path-to-environment-sustainability-5.png",
+      "PackagePath": "staticwebassets\\images\\Grow-Trees-On-the-path-to-environment-sustainability-5.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\Grow-Trees-On-the-path-to-environment-sustainability-login.png",
+      "PackagePath": "staticwebassets\\images\\Grow-Trees-On-the-path-to-environment-sustainability-login.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\Grow-Trees-On-the-path-to-environment-sustainability.png",
+      "PackagePath": "staticwebassets\\images\\Grow-Trees-On-the-path-to-environment-sustainability.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\Nourish-the-Children-in--African-country-1.png",
+      "PackagePath": "staticwebassets\\images\\Nourish-the-Children-in--African-country-1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\Nourish-the-Children-in--African-country.png",
+      "PackagePath": "staticwebassets\\images\\Nourish-the-Children-in--African-country.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\Open-Volunteering-Requests.png",
+      "PackagePath": "staticwebassets\\images\\Open-Volunteering-Requests.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\Plantation-and-Afforestation-programme-1.png",
+      "PackagePath": "staticwebassets\\images\\Plantation-and-Afforestation-programme-1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\Plantation-and-Afforestation-programme.png",
+      "PackagePath": "staticwebassets\\images\\Plantation-and-Afforestation-programme.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\Seats-left.png",
+      "PackagePath": "staticwebassets\\images\\Seats-left.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\Volunteering-Rank.png",
+      "PackagePath": "staticwebassets\\images\\Volunteering-Rank.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\Voted-Missions.png",
+      "PackagePath": "staticwebassets\\images\\Voted-Missions.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\achieved.png",
+      "PackagePath": "staticwebassets\\images\\achieved.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\add.png",
+      "PackagePath": "staticwebassets\\images\\add.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\add1.png",
+      "PackagePath": "staticwebassets\\images\\add1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\images\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\bell-big.png",
+      "PackagePath": "staticwebassets\\images\\bell-big.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\bell.png",
+      "PackagePath": "staticwebassets\\images\\bell.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\bin.png",
+      "PackagePath": "staticwebassets\\images\\bin.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\calender.png",
+      "PackagePath": "staticwebassets\\images\\calender.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\cancel.png",
+      "PackagePath": "staticwebassets\\images\\cancel.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\cancel1.png",
+      "PackagePath": "staticwebassets\\images\\cancel1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\checked.png",
+      "PackagePath": "staticwebassets\\images\\checked.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\cross.png",
+      "PackagePath": "staticwebassets\\images\\cross.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\deadline.png",
+      "PackagePath": "staticwebassets\\images\\deadline.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\doc.png",
+      "PackagePath": "staticwebassets\\images\\doc.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\down.png",
+      "PackagePath": "staticwebassets\\images\\down.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\drag-and-drop.png",
+      "PackagePath": "staticwebassets\\images\\drag-and-drop.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\drop-down.png",
+      "PackagePath": "staticwebassets\\images\\drop-down.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\eye.png",
+      "PackagePath": "staticwebassets\\images\\eye.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\facebook.png",
+      "PackagePath": "staticwebassets\\images\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\filter.png",
+      "PackagePath": "staticwebassets\\images\\filter.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\gift.png",
+      "PackagePath": "staticwebassets\\images\\gift.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\graph.png",
+      "PackagePath": "staticwebassets\\images\\graph.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\grid.png",
+      "PackagePath": "staticwebassets\\images\\grid.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\heart.png",
+      "PackagePath": "staticwebassets\\images\\heart.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\heart1.png",
+      "PackagePath": "staticwebassets\\images\\heart1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\hours.png",
+      "PackagePath": "staticwebassets\\images\\hours.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\image.png",
+      "PackagePath": "staticwebassets\\images\\image.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\image1.png",
+      "PackagePath": "staticwebassets\\images\\image1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\image2.png",
+      "PackagePath": "staticwebassets\\images\\image2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\img.png",
+      "PackagePath": "staticwebassets\\images\\img.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\img1.png",
+      "PackagePath": "staticwebassets\\images\\img1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\img11.png",
+      "PackagePath": "staticwebassets\\images\\img11.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\img2.png",
+      "PackagePath": "staticwebassets\\images\\img2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\img22.png",
+      "PackagePath": "staticwebassets\\images\\img22.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\img3.png",
+      "PackagePath": "staticwebassets\\images\\img3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\img33.png",
+      "PackagePath": "staticwebassets\\images\\img33.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\info.png",
+      "PackagePath": "staticwebassets\\images\\info.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\left.png",
+      "PackagePath": "staticwebassets\\images\\left.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\left1.png",
+      "PackagePath": "staticwebassets\\images\\left1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\linkedin.png",
+      "PackagePath": "staticwebassets\\images\\linkedin.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\list.png",
+      "PackagePath": "staticwebassets\\images\\list.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\loader-new.gif",
+      "PackagePath": "staticwebassets\\images\\loader-new.gif"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\mission.png",
+      "PackagePath": "staticwebassets\\images\\mission.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\my-story.png",
+      "PackagePath": "staticwebassets\\images\\my-story.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\new-message.png",
+      "PackagePath": "staticwebassets\\images\\new-message.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\next.png",
+      "PackagePath": "staticwebassets\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\organization.png",
+      "PackagePath": "staticwebassets\\images\\organization.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\pdf.png",
+      "PackagePath": "staticwebassets\\images\\pdf.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\pin.png",
+      "PackagePath": "staticwebassets\\images\\pin.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\pin1.png",
+      "PackagePath": "staticwebassets\\images\\pin1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\previous.png",
+      "PackagePath": "staticwebassets\\images\\previous.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\right-arrow.png",
+      "PackagePath": "staticwebassets\\images\\right-arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\right-arrow1.png",
+      "PackagePath": "staticwebassets\\images\\right-arrow1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\right-arrow2.png",
+      "PackagePath": "staticwebassets\\images\\right-arrow2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\right-white.png",
+      "PackagePath": "staticwebassets\\images\\right-white.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\right.png",
+      "PackagePath": "staticwebassets\\images\\right.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\search.png",
+      "PackagePath": "staticwebassets\\images\\search.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\selected-star.png",
+      "PackagePath": "staticwebassets\\images\\selected-star.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\settings.png",
+      "PackagePath": "staticwebassets\\images\\settings.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\star-empty.png",
+      "PackagePath": "staticwebassets\\images\\star-empty.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\star-fill.png",
+      "PackagePath": "staticwebassets\\images\\star-fill.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\star.png",
+      "PackagePath": "staticwebassets\\images\\star.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\twitter.png",
+      "PackagePath": "staticwebassets\\images\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\up.png",
+      "PackagePath": "staticwebassets\\images\\up.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\user-img-large.png",
+      "PackagePath": "staticwebassets\\images\\user-img-large.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\user-img.png",
+      "PackagePath": "staticwebassets\\images\\user-img.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\user.png",
+      "PackagePath": "staticwebassets\\images\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\user1.png",
+      "PackagePath": "staticwebassets\\images\\user1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\volunteer1.png",
+      "PackagePath": "staticwebassets\\images\\volunteer1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\volunteer2.png",
+      "PackagePath": "staticwebassets\\images\\volunteer2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\volunteer3.png",
+      "PackagePath": "staticwebassets\\images\\volunteer3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\volunteer4.png",
+      "PackagePath": "staticwebassets\\images\\volunteer4.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\volunteer5.png",
+      "PackagePath": "staticwebassets\\images\\volunteer5.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\volunteer6.png",
+      "PackagePath": "staticwebassets\\images\\volunteer6.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\volunteer7.png",
+      "PackagePath": "staticwebassets\\images\\volunteer7.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\volunteer8.png",
+      "PackagePath": "staticwebassets\\images\\volunteer8.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\volunteer9.png",
+      "PackagePath": "staticwebassets\\images\\volunteer9.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\web.png",
+      "PackagePath": "staticwebassets\\images\\web.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\xlsx.png",
+      "PackagePath": "staticwebassets\\images\\xlsx.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\js\\Carousel.js",
+      "PackagePath": "staticwebassets\\js\\Carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\js\\cardView.js",
+      "PackagePath": "staticwebassets\\js\\cardView.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\js\\contactUs.js",
+      "PackagePath": "staticwebassets\\js\\contactUs.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\js\\imageUploader.js",
+      "PackagePath": "staticwebassets\\js\\imageUploader.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\js\\platformLandingPage.js",
+      "PackagePath": "staticwebassets\\js\\platformLandingPage.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\js\\sb-admin-2.js",
+      "PackagePath": "staticwebassets\\js\\sb-admin-2.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\js\\sb-admin-2.min.js",
+      "PackagePath": "staticwebassets\\js\\sb-admin-2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\js\\storyAddingPage.js",
+      "PackagePath": "staticwebassets\\js\\storyAddingPage.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\js\\storyListingPage.js",
+      "PackagePath": "staticwebassets\\js\\storyListingPage.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\js\\timesheet.js",
+      "PackagePath": "staticwebassets\\js\\timesheet.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\js\\userProfile.js",
+      "PackagePath": "staticwebassets\\js\\userProfile.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\js\\volunteerStoryDetails.js",
+      "PackagePath": "staticwebassets\\js\\volunteerStoryDetails.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\js\\volunteeringMissionPage.js",
+      "PackagePath": "staticwebassets\\js\\volunteeringMissionPage.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MissionApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MissionApp.props",
+      "PackagePath": "build\\MissionApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MissionApp.props",
+      "PackagePath": "buildMultiTargeting\\MissionApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MissionApp.props",
+      "PackagePath": "buildTransitive\\MissionApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
