@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "h5k+EHH+5373t19Ms5z6ADjXn3Zbt4recT/+fFC3HuQ=",
+  "Hash": "MtdYLBGZbl0/NmQsu2zsX/Yu8rvUGlk8q5/AWHQmqfI=",
   "Source": "MissionApp",
   "BasePath": "_content/MissionApp",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MissionApp.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\Avatars\\16volunteer7.png",
+      "SourceId": "MissionApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\",
+      "BasePath": "_content/MissionApp",
+      "RelativePath": "Avatars/16volunteer7.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Avatars\\16volunteer7.png"
     },
     {
       "Identity": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\Avatars\\2volunteer1.png",
@@ -2310,6 +2327,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\xlsx.png"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\js\\Admin.js",
+      "SourceId": "MissionApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\",
+      "BasePath": "_content/MissionApp",
+      "RelativePath": "js/Admin.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Admin.js"
     },
     {
       "Identity": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\js\\cardView.js",

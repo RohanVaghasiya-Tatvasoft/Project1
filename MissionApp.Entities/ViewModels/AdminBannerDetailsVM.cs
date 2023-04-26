@@ -10,5 +10,6 @@ namespace MissionApp.Entities.ViewModels
     public class AdminBannerDetailsVM
     {
         public IEnumerable<Banner> BannerLists { get; set; } = new List<Banner>();
+        public User UserInfo { get; set; }
     }
 }

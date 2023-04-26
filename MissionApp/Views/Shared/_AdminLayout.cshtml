@@ -1,4 +1,11 @@
-﻿<!DOCTYPE html>
+﻿@using System.Security.Claims;
+@{
+    var identity = User.Identity as ClaimsIdentity;
+    var name = identity?.FindFirst(ClaimTypes.Name)?.Value;
+    var surname = identity?.FindFirst(ClaimTypes.Surname)?.Value;
+}
+
+<!DOCTYPE html>
 
 <html>
 <head>
@@ -58,8 +65,8 @@
                     <a class="nav-link" asp-area="Admins" asp-controller="Admin" asp-action="AdminCMSPage">
                         <i class="bi bi-file-earmark-fill"></i>
                         <span>CMS Page</span>
-                    </a>                </li>
-
+                    </a>
+                </li>
 
                 <!-- Nav Item - Mission -->
                 <li class="nav-item list-unstyled">
@@ -141,26 +148,29 @@
                     </div>
 
                     <!-- Topbar Navbar -->
-                    <ul class="navbar-nav ml-auto">
-                        <li class="nav-item dropdown">
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <ul class="navbar-nav ml-auto">
+                            <li class="nav-item dropdown">
 
-                            <a class="nav-link" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown"
-                               aria-expanded="false" style="width:auto">
-                                <img src="~/images/user1.png" class="rounded-circle" height="35" width="35" alt="Profile pic"
-                                     loading="lazy" />
-                                <span class="px-2">Evan Donohue</span>
-                                <img src="/images/drop-down.png" alt="">
-                            </a>
-                            <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
-                                <li><a class="dropdown-item btn">My Profile</a></li>
-                                <li><a class="dropdown-item btn" asp-area="Customer" asp-controller="Mission" asp-action="PlatformLandingPage">Missions</a></li>
-                                <li><a class="dropdown-item btn">Volunteering Timesheet</a></li>
-                                <li><a class="dropdown-item btn">Logout</a></li>
-                                <li><a class="dropdown-item btn">Dashboard</a></li>
-                            </ul>
+                                <a class="nav-link" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown"
+                                   aria-expanded="false" style="width:auto">
+                                    <img src="~/images/user.png" class="rounded-circle" height="35" width="35" alt="Profile pic"
+                                         loading="lazy" />
+                                    <span class="px-2">@name @surname</span>
+                                    <img class="me-4" src="/images/drop-down.png" alt="">
+                                </a>
+                                <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
+                                    <li><a class="dropdown-item btn">My Profile</a></li>
+                                    <li><a class="dropdown-item btn">Volunteering Timesheet</a></li>
+                                    <li><a asp-area="Customer" asp-controller="Mission" asp-action="PlatformLandingPage" class="dropdown-item btn">Missions</a></li>
+                                    <li><a class="dropdown-item btn">Logout</a></li>
+                                    <li><a class="dropdown-item btn">Dashboard</a></li>
+                                </ul>
 
-                        </li>
-                    </ul>
+                            </li>
+                        </ul>
+                    }
 
                 </nav>
                 <!-- End of Topbar -->
@@ -196,12 +206,14 @@
     <script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
     <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
     <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <script src="https://cdn.tiny.cloud/1/qagffr3pkuv17a8on1afax661irst1hbr4e6tbv888sz91jc/tinymce/6/tinymce.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js"
             integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
             crossorigin="anonymous" asp-append-version="true"></script>
     <script src="~/js/sb-admin-2.js"></script>
+    <script src="~/js/Admin.js"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

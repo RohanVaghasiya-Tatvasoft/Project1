@@ -31,7 +31,7 @@ namespace MissionApp.Entities.ViewModels
         public string ConfirmPassword { get; set; } = null!;
 
         [Required(ErrorMessage = " Required!")]
-        public long PhoneNumber { get; set; }
+        public long? PhoneNumber { get; set; }
 
         public string? EmployeeId { get; set; }
 
@@ -40,10 +40,10 @@ namespace MissionApp.Entities.ViewModels
         public string? ProfileText { get; set; }
 
         [Required(ErrorMessage = " Required!")]
-        public long CityId { get; set; }
+        public int CityId { get; set; }
 
         [Required(ErrorMessage = " Required!")]
-        public long CountryId { get; set; }
+        public int CountryId { get; set; }
 
         //Password change
         [Required(ErrorMessage = "Required!")]
@@ -58,5 +58,6 @@ namespace MissionApp.Entities.ViewModels
         public string ConfirmPasswordEdit { get; set; } = null!;
         public IEnumerable<User> UserLists { get; set; } = new List<User>();
         public IEnumerable<Country> CountryList { get; set; } = new List<Country>();
+        public User UserInfo { get; set; }
     }
 }

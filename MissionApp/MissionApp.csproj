@@ -31,4 +31,11 @@
     <Folder Include="wwwroot\StoryImages\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Update="wwwroot\js\Admin.js">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
 </Project>

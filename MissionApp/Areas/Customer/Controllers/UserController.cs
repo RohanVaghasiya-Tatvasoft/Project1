@@ -18,7 +18,7 @@ namespace MissionApp.Areas.Customer.Controllers
             _unitOfWork = unitOfWork;
             _webHostEnvironment = webHostEnvironment;
         }
-        //---------------------------------------------------------------- Other Views ---------------------------------------------------------------//
+        //------------------------------------------------- Other Views ----------------------------------------------------//
         #region Policy Page--->
         public IActionResult PolicyPage()
         {
@@ -30,7 +30,7 @@ namespace MissionApp.Areas.Customer.Controllers
         }
         #endregion
 
-        //---------------------------------------------------------------- TimeSheet ---------------------------------------------------------------//
+        //------------------------------------------------- TimeSheet ------------------------------------------------------//
         #region TimeSheet--->
         public IActionResult Timesheet()
         {
@@ -95,7 +95,7 @@ namespace MissionApp.Areas.Customer.Controllers
                     _unitOfWork.Save();
 
                     TempData["success"] = "Data updated successfully!";
-                    return RedirectToAction("VolTimeSheet");
+                    return RedirectToAction("VolunteerTimesheet");
                 }
             }
 
@@ -135,7 +135,7 @@ namespace MissionApp.Areas.Customer.Controllers
         }
         #endregion
 
-        //---------------------------------------------------------------- Contact Us ---------------------------------------------------------------//
+        //------------------------------------------------- Contact Us -----------------------------------------------------//
         #region Contact Us --->
         [HttpGet]
         public UserVM ContactUs(UserVM userView)
@@ -160,7 +160,7 @@ namespace MissionApp.Areas.Customer.Controllers
         }
         #endregion
 
-        //------------------------------------------------------------- User Profile Edit -----------------------------------------------------------//
+        //------------------------------------------------- User Profile Edit ----------------------------------------------//
         public IActionResult UserProfile()
         {
             User user = GetThisUser();

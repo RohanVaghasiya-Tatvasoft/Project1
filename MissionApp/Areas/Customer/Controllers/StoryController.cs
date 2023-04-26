@@ -92,8 +92,9 @@ namespace MissionApp.Areas.Customer.Controllers
             {
                 storyAddVM.MissionApplications = draftMissionApplicationList;
                 storyAddVM.story = _unitOfWork.Story.GetFirstOrDefault(u => u.UserId == UserInfo.UserId && u.Status == "DRAFT");
-                storyAddVM.StoryMediums = _unitOfWork.StoryMedia.GetAccToFilter(u => u.StoryId == storyAddVM.story.StoryId);
                 storyAddVM.user = UserInfo;
+                storyAddVM.StoryMediums = _unitOfWork.StoryMedia.GetAccToFilter(u => u.StoryId == storyAddVM.story.StoryId);
+                
             }
             catch
             {

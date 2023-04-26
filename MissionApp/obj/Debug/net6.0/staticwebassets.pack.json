@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\MissionApp.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\Avatars\\16volunteer7.png",
+      "PackagePath": "staticwebassets\\Avatars\\16volunteer7.png"
+    },
+    {
       "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\Avatars\\2volunteer1.png",
       "PackagePath": "staticwebassets\\Avatars\\2volunteer1.png"
     },
@@ -635,6 +639,10 @@
     {
       "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\images\\xlsx.png",
       "PackagePath": "staticwebassets\\images\\xlsx.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\js\\Admin.js",
+      "PackagePath": "staticwebassets\\js\\Admin.js"
     },
     {
       "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\js\\Carousel.js",

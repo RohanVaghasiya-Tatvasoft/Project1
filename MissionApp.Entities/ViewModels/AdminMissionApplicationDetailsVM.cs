@@ -10,5 +10,6 @@ namespace MissionApp.Entities.ViewModels
     public class AdminMissionApplicationDetailsVM
     {
         public IEnumerable<MissionApplication> MissionApplicationLists { get; set; } = new List<MissionApplication>();
+        public User UserInfo { get; set; }
     }
 }

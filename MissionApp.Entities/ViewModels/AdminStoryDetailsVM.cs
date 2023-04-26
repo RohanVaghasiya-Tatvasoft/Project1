@@ -10,5 +10,8 @@ namespace MissionApp.Entities.ViewModels
     public class AdminStoryDetailsVM
     {
         public IEnumerable<Story> StoryLists { get; set; } = new List<Story>();
+        public User UserInfo { get; set; }
+
+        public User? UserOfStory { get; set; }
     }
 }
