@@ -37,14 +37,17 @@
             <div class="col-12 col-md-4 form-group">
                 <label class="mb-1" for="exampleInputEmail1">My Story Title</label>
                 <input asp-for="story.Title" type="text" id="story_title" name="storyTitle" class="form-control" placeholder="Enter Story Title">
+                <span asp-validation-for="story.Title" class="text-danger"></span>
             </div>
             <div class="col-12 col-md-4 form-group">
                 <label class="mb-1" for="story_date">Date</label>
                 <input type="date" name="storyDate" class="form-control" placeholder="Select Date"  id="story_date" max='@Convert.ToDateTime(@DateTime.Now).ToString("yyyy-MM-dd")'>
+                <span asp-validation-for="story.PublishedAt" class="text-danger"></span>
             </div>
             <div class="col-12 my-4 form-group" id="textarea">
                 <label class="mb-1" for="myStory">My Story</label>
                 <textarea asp-for="story.Description" class="w-100" name="storyDescription" style="min-height: 300px" id="myStory" placeholder="Sample Story Details..."></textarea>
+                <span asp-validation-for="story.Description" class="text-danger"></span>
             </div>
             <div class="col-12">
                 <label class="mb-1" for="exampleInputEmail1">Enter Video URL</label>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MtdYLBGZbl0/NmQsu2zsX/Yu8rvUGlk8q5/AWHQmqfI=",
+  "Hash": "cCz8lIav4Zo6TzOY8doMe0wVKvhS5cuzy8+GzeR9tFI=",
   "Source": "MissionApp",
   "BasePath": "_content/MissionApp",
   "Mode": "Default",
@@ -85,6 +85,23 @@
       "OriginalItemSpec": "wwwroot\\Avatars\\2volunteer1.png"
     },
     {
+      "Identity": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\Banners\\Grow-Trees-On-the-path-to-environment-sustainability-2.png",
+      "SourceId": "MissionApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\",
+      "BasePath": "_content/MissionApp",
+      "RelativePath": "Banners/Grow-Trees-On-the-path-to-environment-sustainability-2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Banners\\Grow-Trees-On-the-path-to-environment-sustainability-2.png"
+    },
+    {
       "Identity": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\css\\Admin.css",
       "SourceId": "MissionApp",
       "SourceType": "Discovered",
@@ -100,6 +117,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Admin.css"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\css\\AdminAddEditMission.css",
+      "SourceId": "MissionApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\",
+      "BasePath": "_content/MissionApp",
+      "RelativePath": "css/AdminAddEditMission.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\AdminAddEditMission.css"
     },
     {
       "Identity": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\css\\CodePen.css",
@@ -2344,6 +2378,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\Admin.js"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\js\\AdminAddEditDocument.js",
+      "SourceId": "MissionApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\",
+      "BasePath": "_content/MissionApp",
+      "RelativePath": "js/AdminAddEditDocument.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\AdminAddEditDocument.js"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\js\\AdminAddEditMission.js",
+      "SourceId": "MissionApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\",
+      "BasePath": "_content/MissionApp",
+      "RelativePath": "js/AdminAddEditMission.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\AdminAddEditMission.js"
     },
     {
       "Identity": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\js\\cardView.js",

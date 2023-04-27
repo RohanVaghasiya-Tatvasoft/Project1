@@ -21,7 +21,7 @@ namespace MissionApp.Areas.Customer.Controllers
             _webHostEnvironment = webHostEnviornment;
             _storyMethodRepo = storyMethodRepo;
         }
-//--------------------------------------------------------- Story Listing Page View ---------------------------------------------------------//
+//------------------------------------------------- Story Listing Page View ---------------------------------------------//
         public IActionResult StoryListingPage()
         {
             StoryListingVM model = new()
@@ -30,7 +30,7 @@ namespace MissionApp.Areas.Customer.Controllers
             };
             return View(model);
         }
-//-------------------------------------------------------- Story Card Listing View ----------------------------------------------------------//
+//--------------------------------------------- Story Card Listing View ----------------------------------------------//
 
         public IActionResult StoryCardView(int pg = 1)
         {
@@ -65,7 +65,7 @@ namespace MissionApp.Areas.Customer.Controllers
 
             return PartialView("_StoryCards" , storyListingVM);
         }
-//------------------------------------------------------------------- Story Add View Page ------------------------------------------------------//
+//----------------------------------------------------- Story Add View Page ----------------------------------------------//
         public IActionResult StoryAddPage()
         {
             User UserInfo = GetThisUser();
@@ -115,8 +115,11 @@ namespace MissionApp.Areas.Customer.Controllers
 
             var AlreadyPostedStory = _unitOfWork.Story.GetFirstOrDefault(u=> u.MissionId == missionId && u.UserId == userId && u.Status == "DRAFT");
             storyAddVM.Result = "false";
-            //if (ModelState.IsValid == true)
+            //if (!ModelState.IsValid)
             //{
+            //    ModelState.AddModelError("Title", "You need to fill details below...");
+            //    return View(storyAddVM);
+            //}
                 if (AlreadyPostedStory == null)
                 {
                     Story story = new Story
@@ -251,30 +254,30 @@ namespace MissionApp.Areas.Customer.Controllers
                     }
                 }
 
-                StoryAddVM model = new();
+                //StoryAddVM model = new();
 
-                List<MissionApplication> draftMissionApplicationList = new();
-                List<MissionApplication> approvedMissionApplicationList = _unitOfWork.MissionApplication.GetAccToFilter(u => u.UserId == UserInfo.UserId && u.ApprovalStatus == "APPROVE");
+                //List<MissionApplication> draftMissionApplicationList = new();
+                //List<MissionApplication> approvedMissionApplicationList = _unitOfWork.MissionApplication.GetAccToFilter(u => u.UserId == UserInfo.UserId && u.ApprovalStatus == "APPROVE");
 
-                foreach (var mission in approvedMissionApplicationList)
-                {
-                    var story = _unitOfWork.Story.GetFirstOrDefault(u => u.UserId == UserInfo.UserId && u.MissionId == mission.MissionId);
-                    if (story != null && (story.Status == "DRAFT" || story.Status == "DECLINED"))
-                    {
-                        draftMissionApplicationList.Add(mission);
-                    }
-                    else if (story == null)
-                    {
-                        draftMissionApplicationList.Add(mission);
-                    }
-                }
+                //foreach (var mission in approvedMissionApplicationList)
+                //{
+                //    var story = _unitOfWork.Story.GetFirstOrDefault(u => u.UserId == UserInfo.UserId && u.MissionId == mission.MissionId);
+                //    if (story != null && (story.Status == "DRAFT" || story.Status == "DECLINED"))
+                //    {
+                //        draftMissionApplicationList.Add(mission);
+                //    }
+                //    else if (story == null)
+                //    {
+                //        draftMissionApplicationList.Add(mission);
+                //    }
+                //}
 
-                model.MissionApplications = draftMissionApplicationList;
-                model.Missions = (List<Mission>)_unitOfWork.Mission.GetAll();
+                //model.MissionApplications = draftMissionApplicationList;
+                //model.Missions = (List<Mission>)_unitOfWork.Mission.GetAll();
             
             
 
-            return View("StoryAddPage", model);
+            return View("StoryAddPage"/*, model*/);
         }
 
         [HttpPost]
@@ -359,7 +362,7 @@ namespace MissionApp.Areas.Customer.Controllers
                     _unitOfWork.Save();
 
                     var inviteLink = Url.Action("VolunteerStoryDetails", "Story", new { storyId = sId, views = totalViews }, Request.Scheme);
-                    var fromAddress = new MailAddress("job.rohanvaghasiya@gmail.com", "Mission App");
+                    var fromAddress = new MailAddress("roanrush158@gmail.com", "Mission App");
                     var toAddress = new MailAddress(user.Email);
                     var subject = "Story Invite";
                     var body = $"Hello <b>{@user.FirstName} {@user.LastName}</b> ,<br /><br /> Your Colleague <b>{thisUser.FirstName} {thisUser.LastName}</b>sent you an intrested story <b><i>{thisStory.Title}</i></b><br /><br />Click the following link to read the story,<br /><br /><a href='{inviteLink}'>{inviteLink}</a><br /><br />Regards,<br/>";
@@ -372,7 +375,7 @@ namespace MissionApp.Areas.Customer.Controllers
 
                     var smtpClient = new SmtpClient("smtp.gmail.com", 587)
                     {
-                        Credentials = new NetworkCredential("job.rohanvaghasiya@gmail.com", "ggfusnzqobzmbgil"),
+                        Credentials = new NetworkCredential("roanrush158@gmail.com", "hcsuogfokidvirmz"),
                         EnableSsl = true,
                     };
                     smtpClient.Send(msg);

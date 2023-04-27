@@ -354,7 +354,7 @@ namespace MissionApp.Areas.Customer.Controllers
 
 
 
-                    var fromAddress = new MailAddress("job.rohanvaghasiya@gmail.com", "Mission App");
+                    var fromAddress = new MailAddress("roanrush158@gmail.com", "Mission App");
                     var toAddress = new MailAddress(user.Email);
                     var subject = "Mission Invite";
                     var body = $"Hi,<br /><br /> you are invited by your friend to enroll to the mission at CIPlatform.<br /><br />Click the following link to get the details of mission,<br /><br /><a href='{inviteLink}'>{inviteLink}</a>";
@@ -370,7 +370,7 @@ namespace MissionApp.Areas.Customer.Controllers
                     var smtpClient = new SmtpClient("smtp.gmail.com", 587)
                     {
                         UseDefaultCredentials = false,
-                        Credentials = new NetworkCredential("job.rohanvaghasiya@gmail.com", "ggfusnzqobzmbgil"),
+                        Credentials = new NetworkCredential("roanrush158@gmail.com", "hcsuogfokidvirmz"),
                         EnableSsl = true
                     };
                     smtpClient.Send(message);

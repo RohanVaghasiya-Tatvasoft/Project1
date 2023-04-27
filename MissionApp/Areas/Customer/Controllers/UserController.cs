@@ -54,6 +54,15 @@ namespace MissionApp.Areas.Customer.Controllers
             return View(obj);
         }
 
+        public bool CheckEnterdTime(int Minutes, int Hours)
+        {
+            if (Hours == 0 && Minutes == 0)
+            {
+                return false;
+            }
+            return true;
+        }
+
         [HttpPost]
         public IActionResult ChangeInTimesheet(TimesheetVM obj)
         {
@@ -84,7 +93,7 @@ namespace MissionApp.Areas.Customer.Controllers
                 Timesheet updatedData = _unitOfWork.Timesheet.GetFirstOrDefault(timeSheetData => timeSheetData.TimesheetId == obj.TimeSheetId);
                 if (updatedData != null)
                 {
-                    updatedData.MissionId = obj.MissionId;
+                    //updatedData.MissionId = obj.MissionId;
                     updatedData.Action = obj.Action;
                     updatedData.Time = time;
                     updatedData.Notes = obj.Notes;
@@ -192,7 +201,7 @@ namespace MissionApp.Areas.Customer.Controllers
             return View(userProfileVM);
         }
 
-        // ----------------------------------------------------------------- User Profile Post Method -------------------------------------------------//
+        // --------------------------------------------- User Profile Post Method -----------------------------------//
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult UserProfile(UserProfileVM userProfileVM, List<int> UpdatedSkills) 
@@ -216,6 +225,7 @@ namespace MissionApp.Areas.Customer.Controllers
                 
 
                 _unitOfWork.User.Update(user);
+                userProfileVM.UserInfo = user;
 
                 if (UpdatedSkills.Any())
                 {

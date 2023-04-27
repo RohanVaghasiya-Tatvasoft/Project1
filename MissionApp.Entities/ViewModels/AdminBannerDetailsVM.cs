@@ -11,5 +11,13 @@ namespace MissionApp.Entities.ViewModels
     {
         public IEnumerable<Banner> BannerLists { get; set; } = new List<Banner>();
         public User UserInfo { get; set; }
+
+        public string? BannerText { get; set; }
+
+        public int? BannerNumber { get; set; }
+
+        public int BannerId { get; set; }
+
+        public string? Banner { get; set; }
     }
 }

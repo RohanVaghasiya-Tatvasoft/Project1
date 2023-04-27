@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\Avatars\\2volunteer1.png"
     },
     {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\Banners\\Grow-Trees-On-the-path-to-environment-sustainability-2.png",
+      "PackagePath": "staticwebassets\\Banners\\Grow-Trees-On-the-path-to-environment-sustainability-2.png"
+    },
+    {
       "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\StoryImages\\05975929-ee99-4a51-af5c-d7b54e59f3b0.jpg",
       "PackagePath": "staticwebassets\\StoryImages\\05975929-ee99-4a51-af5c-d7b54e59f3b0.jpg"
     },
@@ -115,6 +119,10 @@
     {
       "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\css\\Admin.css",
       "PackagePath": "staticwebassets\\css\\Admin.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\css\\AdminAddEditMission.css",
+      "PackagePath": "staticwebassets\\css\\AdminAddEditMission.css"
     },
     {
       "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\css\\CodePen.css",
@@ -643,6 +651,14 @@
     {
       "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\js\\Admin.js",
       "PackagePath": "staticwebassets\\js\\Admin.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\js\\AdminAddEditDocument.js",
+      "PackagePath": "staticwebassets\\js\\AdminAddEditDocument.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\js\\AdminAddEditMission.js",
+      "PackagePath": "staticwebassets\\js\\AdminAddEditMission.js"
     },
     {
       "Id": "C:\\Users\\HP\\Downloads\\MissionAppInPC-main (4)\\MissionAppInPC-main\\MissionApp\\wwwroot\\js\\Carousel.js",

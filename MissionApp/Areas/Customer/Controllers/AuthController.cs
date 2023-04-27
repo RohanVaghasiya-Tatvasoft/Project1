@@ -138,7 +138,7 @@ namespace MissionApp.Areas.Customer.Controllers
 
 
                 var resetLink = Url.Action("ResetPassword", "Auth", new { email = forgotPasswordVM.Email, token }, Request.Scheme);
-                var fromAddress = new MailAddress("job.rohanvaghasiya@gmail.com", "Mission App");
+                var fromAddress = new MailAddress("roanrush158@gmail.com", "Mission App");
                 var toAddress = new MailAddress(forgotPasswordVM.Email);
                 var subject = "Password Reset Request";
                 var body = $"Hi,<br /><br />Please click on the following link to reset your password:<br /><br /><a href='{resetLink}'>{resetLink}</a>";
@@ -153,7 +153,7 @@ namespace MissionApp.Areas.Customer.Controllers
                 var smtpclient = new SmtpClient("smtp.gmail.com", 587)
                 {
                     UseDefaultCredentials = false,
-                    Credentials = new NetworkCredential("job.rohanvaghasiya@gmail.com", "ggfusnzqobzmbgil"),
+                    Credentials = new NetworkCredential("roanrush158@gmail.com", "hcsuogfokidvirmz"),
                     EnableSsl = true
                 };
                 smtpclient.Send(message);

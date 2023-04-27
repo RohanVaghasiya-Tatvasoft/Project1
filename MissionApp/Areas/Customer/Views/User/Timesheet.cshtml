@@ -124,7 +124,7 @@
                                                             </div>
                                                             <div class="mb-3">
                                                                 <label for="missForTimeMissEdit" class="form-label">Mission</label>
-                                                                <select asp-for="MissionId" id="missForTimeMissEdit" class="form-select" onchange="getDate('#missForTimeMissEdit')">
+                                                                <select asp-for="MissionId" id="missForTimeMissEdit" class="form-select" disabled>
                                                                     <option value="">Select Mission</option>
                                                                     @foreach (var mission in Model.MissionApplicationForTime)
                                                                     {
@@ -270,7 +270,7 @@
                                                             </div>
                                                             <div class="mb-3">
                                                                 <label for="missForGoalMissEdit" class="form-label">Mission</label>
-                                                                <select asp-for="MissionId" id="missForGoalMissEdit" class="form-select" onchange="getDate('#missForGoalMissEdit')">
+                                                                <select asp-for="MissionId" id="missForGoalMissEdit" class="form-select" disabled>
                                                                     <option value="">Select Mission</option>
                                                                     @foreach (var mission in Model.MissionApplicationForGoal)
                                                                     {
